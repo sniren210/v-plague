@@ -1,0 +1,69 @@
+Capital city of United Kingdom;
+Machester;
+London;
+Birmingham;
+Edinburgh;
+London;
+|
+Capital city of france;
+Bordeaux;
+Marseille;
+Lyon;
+Paris;
+Paris;
+|
+Name the person behind Construct 2;
+Tom;
+Julian;
+Ashley;
+Kyatric;
+Ashley;
+|
+Capital city of India;
+MUmbai;
+Chennai;
+Delhi;
+Jaipur;
+Delhi;
+|
+Capital city of Italy;
+Milan;
+Rome;
+Florence;
+Venice;
+Rome;
+|
+Capital city of Belgium;
+Brussels;
+Antwerp;
+Ghent;
+Ostend;
+Brussels;
+|
+Capital city of Ireland;
+Lucan;
+Mullingar;
+Athlone;
+Dublin;
+Dublin;
+|
+Capital city of United State;
+California;
+Washington;
+Phoenix;
+Bakersfield;
+Washington;
+|
+Capital city of Canada;
+Ontario;
+Ottawa;
+Quebec;
+Saskatoon;
+Ottawa;
+|
+Capital city of Australia;
+Perth;
+Adelaide;
+Brisbane;
+Canberra;
+Canberra;
